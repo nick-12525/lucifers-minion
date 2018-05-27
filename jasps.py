@@ -256,4 +256,4 @@ async def on_message(message):
 bot.add_cog(Administrator())
 bot.add_cog(CustomReactions())
 bot.add_cog(Miscellanious())
-bot.run("NDUwMjMxMTU3MzIyMTUzOTk0.DewN_w.v3c_1c0gNCfPkYygoNS1-0VEczE")
+bot.run("UwMjMxMTU3MzIyMTUzOTk0.DewN_w.v3c_1c0gNCfPkYygoNS1-0VEczE")
